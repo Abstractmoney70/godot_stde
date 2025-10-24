@@ -7,6 +7,12 @@
 2. Drop anywhere in your project
 3. Use immediately: `stde.capitalize_words("hello world")`
 
+## 💬 Join the Community
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Us-7289DA?logo=discord&logoColor=white)](https://discord.gg/h5AVSBWtSq)
+
+Get real-time help, share your stde projects, and connect with other developers!
+
 ## 🔥 Top Features
 ```gdscript
 // Financial games
