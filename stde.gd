@@ -1,6 +1,9 @@
 class_name stde
 extends Node
 
+# VERSION 1.0.0
+# RELEASED!
+
 #region Math & Financial Utilities
 
 @warning_ignore("shadowed_global_identifier")
