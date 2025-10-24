@@ -1,4 +1,3 @@
-```markdown
 # Contributing to stde
 
 We love contributions! Here's how to help make stde better.
@@ -86,4 +85,3 @@ By contributing, you agree that your contributions will be licensed under the MI
 ---
 
 **Thank you for helping make stde better!** 🎉
-```
