@@ -1,0 +1,7 @@
+To Access the Documentation:
+
+1. Download the library
+2. Press F1 in your project where stde.gd is present
+3. Type "stde" in the search bar
+4. Click on it
+5. Documentation reporting at your command!
